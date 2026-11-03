@@ -1,5 +1,5 @@
 # Lab Equipment Borrow System
-O.5C JavaEE Final Project, Li Ao
+O.5C JavaEE Final Project, 李鳌
 
 ## Introduction
 This system manages lab equipment borrowing and returning.
